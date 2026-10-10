@@ -21,3 +21,8 @@ Your little buddy for better focus! ⏱️
 - Beat your personal best and celebrate! 🎉
 
 💖This is for brains that struggle to focus because world is full of cool things.💖
+
+<img width="783" height="680" alt="Screenshot 2026-10-09 at 10 29 13 PM" src="https://github.com/user-attachments/assets/5b0d12da-dabf-4c31-83aa-d69c18c0521c" />
+
+
+
