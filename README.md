@@ -2,12 +2,15 @@
 
 Your little buddy for better focus! ⏱️
 
-A simple, cute focus timer to help you stay on track, beat distractions, and celebrate your personal bests!
 
 ✨ Features
+
 - ▶️ Start, stop, and reset your timer
+  
 - ⏱️ Track your focus time
+  
 - 🏆 Keep an eye on your personal best
+  
 - 💙 A clean, calming design to keep you focused
 
 
