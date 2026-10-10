@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(213, 244, 255);
+}
+.button1:hover {
+    text-align: center;
+    background-color: green;
+    color: black;
+    border: 2px solid black;
+}
+
+.button2:hover {
+    text-align: center;
+    background-color: red;
+    color: black;
+    border: 2px solid black;
+}
+
+.button3:hover {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    border: 2px solid black;
+}
+
+.header-container {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+      font-family: 'Courier New', Courier, monospace;
+}
+.intro-container{
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+
+}
+.status-container{
+    text-align: center;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+}
+.timerrecord{
+    text-align: center;
+    color: darkred;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1px;
+}
+.timer{
+    text-align: center;
+    background-color: darkorange;
+
+}
